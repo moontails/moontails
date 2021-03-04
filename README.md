@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+about me
+
+- core tenant : least principles & yagni
+- keep pursuing excellence
+- automate automate automate
+- (love & live) life
+- climbing > hiking > running > walking > sleep > idle
+
 <!--
 **moontails/moontails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
