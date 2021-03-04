@@ -2,6 +2,7 @@
 
 about me
 
+- currently in love with containerization
 - core tenant : least principles & yagni
 - keep pursuing excellence
 - automate automate automate
