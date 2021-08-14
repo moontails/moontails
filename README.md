@@ -4,10 +4,10 @@ about me
 
 - currently in love with containerization
 - core tenant : least principles & yagni
-- keep pursuing excellence
-- automate automate automate
-- (love & live) life
-- climbing > hiking > running > walking > sleep > idle
+- dream big and then go! 
+- automate to simplify 
+- love life but more importantly live life!
+- climbing > hiking > running > walking > dreaming > sleep > idle
 
 <!--
 **moontails/moontails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
