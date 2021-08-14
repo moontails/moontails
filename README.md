@@ -1,11 +1,12 @@
-### Hi there 👋
+### greetings traveller! 👋
 
-about me
+✨ currently working on blogging a fantasy-fiction concept! check out [heartstrings](https://moontails.github.io/heartstrings/) ✨
 
+about me:
 - currently in love with containerization
 - core tenant : least principles & yagni
 - dream big and then go! 
-- automate to simplify 
+- automate to simplify
 - love life but more importantly live life!
 - climbing > hiking > running > walking > dreaming > sleep > idle
 
