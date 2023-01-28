@@ -1,7 +1,5 @@
 ### greetings traveller! 👋
 
-✨ currently working on blogging a fantasy-fiction concept! check out [heartstrings](https://moontails.github.io/heartstrings/) ✨
-
 about me:
 - currently in love with containerization
 - core tenant : least principles & yagni
