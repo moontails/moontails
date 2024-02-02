@@ -1,12 +1,17 @@
 ### greetings traveller! 👋
 
 about me:
+
+- computer science at UIUC, RVCE
+- battle tested at Akamai, Expedia, Amazon and Twilio
+- climbing > hiking > running > walking > dreaming > sleep > idle
 - currently in love with containerization
 - core tenant : least principles & yagni
-- dream big and then go! 
-- automate to simplify
+- dream big and go! 
 - love life but more importantly live life!
-- climbing > hiking > running > walking > dreaming > sleep > idle
+
+#mountaineer #writer #explorer
+
 
 <!--
 **moontails/moontails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
