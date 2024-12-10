@@ -4,7 +4,7 @@ about me:
 
 - computer science at UIUC, RVCE
 - battle tested at Akamai, Expedia, Amazon and Twilio
-- ⛰️ mountaineer!
+- ⛰️ mountaineer
 
 
 <!--
