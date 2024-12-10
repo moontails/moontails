@@ -4,14 +4,7 @@ about me:
 
 - computer science at UIUC, RVCE
 - battle tested at Akamai, Expedia, Amazon and Twilio
-- intermediate mountaineer!
-- climbing > hiking > running > walking > dreaming > sleep > idle
-- currently in love with containerization
-- core tenant : least principles & yagni
-- dream big and go! 
-- love life but more importantly live life!
-
-#mountaineer #writer #explorer
+- ⛰️ mountaineer!
 
 
 <!--
